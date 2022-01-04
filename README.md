@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @izijie
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning Qt creator
+- 📫 How to reach me zijielin2006820@163.com
